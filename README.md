@@ -1,7 +1,7 @@
 # Sales-Analytics-Dashbord---BlinkIt
 # Blinkit-Sales-Analysis-Dashboard
 ---
-<img width="1157" height="685" alt="image" src="https://github.com/user-attachments/assets/cf514ce9-a69c-4924-8e59-e21ba45fb577" />
+<img width="1157" height="685" alt="image" src="https://github.com/satyapal048/Blinkit---Sales-Analysis-Dashboard/blob/main/satyapal%20-%20DTU.png" />
 ---
 This project presents a comprehensive sales analysis dashboard for Blinkit, an Indian last-minute delivery app. The dashboard was created using Power BI and provides a detailed overview of the company's sales performance across various outlets and product categories. 
 
